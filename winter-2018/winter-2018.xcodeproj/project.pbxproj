@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5D60AD26200B6E7400CB4581 /* 1780.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5D60AD24200B6E7400CB4581 /* 1780.cpp */; };
+		5D60AD2B201488B700CB4581 /* 2583.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5D60AD2A201488B700CB4581 /* 2583.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +26,8 @@
 		5D60AD19200B429C00CB4581 /* winter-2018 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "winter-2018"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D60AD1C200B429C00CB4581 /* 2805.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2805.cpp; sourceTree = "<group>"; };
 		5D60AD24200B6E7400CB4581 /* 1780.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1780.cpp; sourceTree = "<group>"; };
+		5D60AD27201470FB00CB4581 /* 1199.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1199.cpp; sourceTree = "<group>"; };
+		5D60AD2A201488B700CB4581 /* 2583.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2583.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +60,10 @@
 		5D60AD1B200B429C00CB4581 /* winter-2018 */ = {
 			isa = PBXGroup;
 			children = (
-				5D60AD1C200B429C00CB4581 /* 2805.cpp */,
 				5D60AD24200B6E7400CB4581 /* 1780.cpp */,
+				5D60AD1C200B429C00CB4581 /* 2805.cpp */,
+				5D60AD27201470FB00CB4581 /* 1199.cpp */,
+				5D60AD2A201488B700CB4581 /* 2583.cpp */,
 			);
 			path = "winter-2018";
 			sourceTree = "<group>";
@@ -121,7 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5D60AD26200B6E7400CB4581 /* 1780.cpp in Sources */,
+				5D60AD2B201488B700CB4581 /* 2583.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
